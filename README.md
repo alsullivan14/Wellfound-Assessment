@@ -7,6 +7,10 @@ Clone/fork this repository and make a commit with this change. After you've made
 
 <BR><BR>
 
+## Updated Home Page Image
+![Index page](public/images/updatedindex.png)
+
+
 ## Contributions
 Feel free to clone this repo locally and use your own editor of choice.
 
